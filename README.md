@@ -16,3 +16,7 @@ comments. Be sure to read everything. Run lab2.js with `node lab2.js`.
 
 
 #### Resources and Collaborators
+w3schools.com
+mdn.com
+stackoverflow.com
+aaron taggart
